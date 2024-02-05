@@ -77,3 +77,579 @@
 [2/2/2024 -- 11:22]  Scripts ran on main.js
 [2/2/2024 -- 11:22]  Sass ran on files
 [2/2/2024 -- 11:26]  Scripts ran on main.js
+[2/2/2024 -- 11:30]  Info task started
+[2/2/2024 -- 11:30]  Mustache Templates ran on the HTML files
+[2/2/2024 -- 11:30]  Scripts ran on main.js
+[2/2/2024 -- 11:30]  Sass ran on files
+[2/2/2024 -- 11:31]  Scripts ran on main.js
+[2/2/2024 -- 11:31]  Scripts ran on main.js
+[2/2/2024 -- 11:32]  Scripts ran on main.js
+[2/2/2024 -- 11:39]  Scripts ran on main.js
+[2/2/2024 -- 11:40]  Scripts ran on main.js
+[2/2/2024 -- 11:40]  Scripts ran on main.js
+[2/2/2024 -- 11:43]  Scripts ran on main.js
+[2/2/2024 -- 11:44]  Scripts ran on main.js
+[2/2/2024 -- 11:44]  Scripts ran on main.js
+[2/2/2024 -- 11:44]  Scripts ran on main.js
+[2/2/2024 -- 11:44]  Scripts ran on main.js
+[2/2/2024 -- 11:44]  Scripts ran on main.js
+[2/2/2024 -- 11:45]  Scripts ran on main.js
+[2/2/2024 -- 11:45]  Scripts ran on main.js
+[2/2/2024 -- 11:45]  Scripts ran on main.js
+[2/2/2024 -- 11:45]  Scripts ran on main.js
+[2/2/2024 -- 11:45]  Scripts ran on main.js
+[2/2/2024 -- 11:46]  Scripts ran on main.js
+[2/2/2024 -- 11:47]  Scripts ran on main.js
+[2/2/2024 -- 11:47]  Scripts ran on main.js
+[2/2/2024 -- 11:47]  Scripts ran on main.js
+[2/2/2024 -- 11:47]  Scripts ran on main.js
+[2/2/2024 -- 11:47]  Scripts ran on main.js
+[2/2/2024 -- 11:47]  Scripts ran on main.js
+[2/2/2024 -- 11:48]  Scripts ran on main.js
+[2/2/2024 -- 11:48]  Scripts ran on main.js
+[2/2/2024 -- 11:49]  Scripts ran on main.js
+[2/2/2024 -- 11:50]  Scripts ran on main.js
+[2/2/2024 -- 11:57]  Scripts ran on main.js
+[2/2/2024 -- 11:58]  Scripts ran on main.js
+[2/2/2024 -- 11:58]  Scripts ran on main.js
+[2/2/2024 -- 11:58]  Scripts ran on main.js
+[2/2/2024 -- 12:5]  Scripts ran on main.js
+[2/2/2024 -- 12:27]  Info task started
+[2/2/2024 -- 12:27]  Mustache Templates ran on the HTML files
+[2/2/2024 -- 12:27]  Scripts ran on main.js
+[2/2/2024 -- 12:27]  Sass ran on files
+[2/2/2024 -- 12:28]  Info task started
+[2/2/2024 -- 12:28]  Mustache Templates ran on the HTML files
+[2/2/2024 -- 12:28]  Scripts ran on main.js
+[2/2/2024 -- 12:28]  Sass ran on files
+[2/2/2024 -- 12:28]  Scripts ran on main.js
+[2/2/2024 -- 12:29]  restarted!
+[2/2/2024 -- 12:34]  restarted!
+[2/2/2024 -- 12:35]  Info task started
+[2/2/2024 -- 12:35]  Mustache Templates ran on the HTML files
+[2/2/2024 -- 12:35]  Scripts ran on main.js
+[2/2/2024 -- 12:35]  Sass ran on files
+[2/2/2024 -- 12:35]  restarted!
+[2/2/2024 -- 12:37]  Scripts ran on main.js
+[2/2/2024 -- 12:39]  Scripts ran on main.js
+[2/2/2024 -- 12:39]  Scripts ran on main.js
+[2/2/2024 -- 12:40]  Scripts ran on main.js
+[2/2/2024 -- 12:40]  Scripts ran on main.js
+[2/2/2024 -- 12:41]  Scripts ran on main.js
+[2/2/2024 -- 12:41]  Scripts ran on main.js
+[2/2/2024 -- 12:41]  Scripts ran on main.js
+[2/2/2024 -- 12:42]  Scripts ran on main.js
+[2/2/2024 -- 12:42]  Scripts ran on main.js
+[2/2/2024 -- 12:49]  Info task started
+[2/2/2024 -- 12:49]  Mustache Templates ran on the HTML files
+[2/2/2024 -- 12:49]  Scripts ran on main.js
+[2/2/2024 -- 12:49]  Sass ran on files
+[2/2/2024 -- 12:49]  Scripts ran on main.js
+[2/2/2024 -- 12:49]  Scripts ran on main.js
+[2/2/2024 -- 12:49]  Scripts ran on main.js
+[2/2/2024 -- 12:50]  Scripts ran on main.js
+[2/2/2024 -- 12:50]  Scripts ran on main.js
+[2/2/2024 -- 12:50]  Scripts ran on main.js
+[2/2/2024 -- 12:50]  Scripts ran on main.js
+[2/2/2024 -- 12:54]  Scripts ran on main.js
+[2/2/2024 -- 12:54]  Scripts ran on main.js
+[2/2/2024 -- 12:54]  Scripts ran on main.js
+[2/2/2024 -- 12:55]  Scripts ran on main.js
+[2/2/2024 -- 12:55]  Scripts ran on main.js
+[2/2/2024 -- 12:55]  Scripts ran on main.js
+[2/2/2024 -- 12:58]  Info task started
+[2/2/2024 -- 12:58]  Mustache Templates ran on the HTML files
+[2/2/2024 -- 12:58]  Scripts ran on main.js
+[2/2/2024 -- 12:58]  Sass ran on files
+[2/2/2024 -- 12:59]  Scripts ran on main.js
+[2/2/2024 -- 12:59]  Scripts ran on main.js
+[2/2/2024 -- 12:59]  Scripts ran on main.js
+[2/2/2024 -- 13:0]  Scripts ran on main.js
+[2/2/2024 -- 13:0]  Scripts ran on main.js
+[2/2/2024 -- 13:0]  Scripts ran on main.js
+[2/2/2024 -- 13:0]  Scripts ran on main.js
+[2/2/2024 -- 13:5]  Scripts ran on main.js
+[2/2/2024 -- 13:5]  Scripts ran on main.js
+[2/2/2024 -- 13:6]  Scripts ran on main.js
+[2/2/2024 -- 13:6]  Scripts ran on main.js
+[2/2/2024 -- 13:7]  Scripts ran on main.js
+[2/2/2024 -- 13:8]  Scripts ran on main.js
+[2/2/2024 -- 13:9]  Scripts ran on main.js
+[2/2/2024 -- 13:9]  Scripts ran on main.js
+[2/2/2024 -- 13:9]  Scripts ran on main.js
+[2/2/2024 -- 13:9]  Scripts ran on main.js
+[2/2/2024 -- 13:9]  Scripts ran on main.js
+[2/2/2024 -- 13:9]  Scripts ran on main.js
+[2/2/2024 -- 13:9]  Scripts ran on main.js
+[2/2/2024 -- 13:10]  Scripts ran on main.js
+[2/2/2024 -- 13:10]  Scripts ran on main.js
+[2/2/2024 -- 13:11]  Info task started
+[2/2/2024 -- 13:11]  Mustache Templates ran on the HTML files
+[2/2/2024 -- 13:11]  Scripts ran on main.js
+[2/2/2024 -- 13:11]  Sass ran on files
+[2/2/2024 -- 13:12]  Scripts ran on main.js
+[2/2/2024 -- 13:13]  Scripts ran on main.js
+[2/2/2024 -- 13:14]  Scripts ran on main.js
+[2/2/2024 -- 13:15]  Scripts ran on main.js
+[2/2/2024 -- 13:18]  Info task started
+[2/2/2024 -- 13:18]  Mustache Templates ran on the HTML files
+[2/2/2024 -- 13:18]  Scripts ran on main.js
+[2/2/2024 -- 13:18]  Sass ran on files
+[2/2/2024 -- 13:19]  Scripts ran on main.js
+[2/2/2024 -- 13:19]  Scripts ran on main.js
+[2/2/2024 -- 13:19]  Scripts ran on main.js
+[2/2/2024 -- 13:19]  Scripts ran on main.js
+[2/2/2024 -- 13:20]  Scripts ran on main.js
+[2/2/2024 -- 15:10]  Scripts ran on main.js
+[2/2/2024 -- 15:10]  Scripts ran on main.js
+[2/2/2024 -- 15:10]  Scripts ran on main.js
+[2/2/2024 -- 15:11]  Scripts ran on main.js
+[2/2/2024 -- 15:11]  Scripts ran on main.js
+[2/2/2024 -- 15:12]  Scripts ran on main.js
+[2/2/2024 -- 15:13]  Scripts ran on main.js
+[2/2/2024 -- 15:13]  Scripts ran on main.js
+[2/2/2024 -- 15:14]  Scripts ran on main.js
+[2/2/2024 -- 15:14]  Scripts ran on main.js
+[2/2/2024 -- 15:14]  Scripts ran on main.js
+[2/2/2024 -- 15:19]  Scripts ran on main.js
+[2/2/2024 -- 15:52]  Scripts ran on main.js
+[2/2/2024 -- 16:20]  Scripts ran on main.js
+[2/2/2024 -- 16:32]  restarted!
+[2/2/2024 -- 16:32]  restarted!
+[2/2/2024 -- 16:32]  restarted!
+[2/2/2024 -- 16:33]  restarted!
+[2/2/2024 -- 16:42]  Info task started
+[2/2/2024 -- 16:42]  Mustache Templates ran on the HTML files
+[2/2/2024 -- 16:42]  Scripts ran on main.js
+[2/2/2024 -- 16:42]  Sass ran on files
+[2/2/2024 -- 16:42]  Scripts ran on main.js
+[2/2/2024 -- 16:43]  Info task started
+[2/2/2024 -- 16:43]  Mustache Templates ran on the HTML files
+[2/2/2024 -- 16:43]  Scripts ran on main.js
+[2/2/2024 -- 16:43]  Sass ran on files
+[2/2/2024 -- 16:44]  Scripts ran on main.js
+[2/2/2024 -- 16:44]  Scripts ran on main.js
+[2/2/2024 -- 16:47]  Scripts ran on main.js
+[2/2/2024 -- 16:49]  Scripts ran on main.js
+[2/2/2024 -- 16:50]  restarted!
+[2/2/2024 -- 16:50]  restarted!
+[2/2/2024 -- 16:54]  restarted!
+[2/2/2024 -- 16:57]  Scripts ran on main.js
+[2/2/2024 -- 16:58]  Scripts ran on main.js
+[2/2/2024 -- 16:59]  Scripts ran on main.js
+[2/2/2024 -- 16:59]  Scripts ran on main.js
+[2/2/2024 -- 16:59]  Scripts ran on main.js
+[2/2/2024 -- 17:1]  Scripts ran on main.js
+[2/2/2024 -- 17:1]  Scripts ran on main.js
+[2/2/2024 -- 17:2]  Scripts ran on main.js
+[2/2/2024 -- 17:2]  Scripts ran on main.js
+[2/2/2024 -- 17:2]  Scripts ran on main.js
+[2/2/2024 -- 17:4]  Scripts ran on main.js
+[2/2/2024 -- 17:10]  Info task started
+[2/2/2024 -- 17:10]  Mustache Templates ran on the HTML files
+[2/2/2024 -- 17:10]  Scripts ran on main.js
+[2/2/2024 -- 17:10]  Sass ran on files
+[2/2/2024 -- 17:11]  Scripts ran on main.js
+[2/2/2024 -- 17:13]  Info task started
+[2/2/2024 -- 17:13]  Mustache Templates ran on the HTML files
+[2/2/2024 -- 17:13]  Scripts ran on main.js
+[2/2/2024 -- 17:13]  Sass ran on files
+[2/2/2024 -- 17:14]  Scripts ran on main.js
+[2/2/2024 -- 17:14]  Scripts ran on main.js
+[2/2/2024 -- 17:14]  Scripts ran on main.js
+[2/2/2024 -- 17:14]  Info task started
+[2/2/2024 -- 17:14]  Mustache Templates ran on the HTML files
+[2/2/2024 -- 17:14]  Scripts ran on main.js
+[2/2/2024 -- 17:14]  Sass ran on files
+[2/2/2024 -- 17:15]  Scripts ran on main.js
+[2/2/2024 -- 17:15]  Scripts ran on main.js
+[2/2/2024 -- 17:16]  Scripts ran on main.js
+[2/2/2024 -- 17:16]  Scripts ran on main.js
+[2/2/2024 -- 17:16]  Scripts ran on main.js
+[2/2/2024 -- 17:17]  Info task started
+[2/2/2024 -- 17:17]  Mustache Templates ran on the HTML files
+[2/2/2024 -- 17:17]  Scripts ran on main.js
+[2/2/2024 -- 17:17]  Sass ran on files
+[2/2/2024 -- 17:18]  Scripts ran on main.js
+[2/2/2024 -- 17:18]  Scripts ran on main.js
+[2/2/2024 -- 17:18]  Info task started
+[2/2/2024 -- 17:18]  Mustache Templates ran on the HTML files
+[2/2/2024 -- 17:18]  Scripts ran on main.js
+[2/2/2024 -- 17:18]  Sass ran on files
+[2/2/2024 -- 17:19]  Scripts ran on main.js
+[2/2/2024 -- 17:20]  restarted!
+[4/2/2024 -- 17:47]  Scripts ran on main.js
+[4/2/2024 -- 17:49]  Scripts ran on main.js
+[4/2/2024 -- 17:51]  Sass ran on files
+[4/2/2024 -- 17:53]  Sass ran on files
+[4/2/2024 -- 17:53]  Sass ran on files
+[4/2/2024 -- 17:53]  Sass ran on files
+[4/2/2024 -- 17:53]  Sass ran on files
+[4/2/2024 -- 17:53]  Scripts ran on main.js
+[4/2/2024 -- 17:53]  Scripts ran on main.js
+[4/2/2024 -- 17:54]  Sass ran on files
+[4/2/2024 -- 17:55]  Sass ran on files
+[4/2/2024 -- 17:56]  Sass ran on files
+[4/2/2024 -- 17:56]  Sass ran on files
+[4/2/2024 -- 17:56]  Sass ran on files
+[4/2/2024 -- 17:57]  Sass ran on files
+[4/2/2024 -- 17:57]  Sass ran on files
+[4/2/2024 -- 17:57]  Sass ran on files
+[4/2/2024 -- 17:57]  Sass ran on files
+[4/2/2024 -- 17:57]  Sass ran on files
+[4/2/2024 -- 17:58]  Sass ran on files
+[4/2/2024 -- 17:59]  Scripts ran on main.js
+[4/2/2024 -- 18:3]  Info task started
+[4/2/2024 -- 18:3]  Mustache Templates ran on the HTML files
+[4/2/2024 -- 18:3]  Scripts ran on main.js
+[4/2/2024 -- 18:3]  Sass ran on files
+[4/2/2024 -- 18:3]  Scripts ran on main.js
+[4/2/2024 -- 18:5]  Scripts ran on main.js
+[4/2/2024 -- 18:8]  Info task started
+[4/2/2024 -- 18:8]  Mustache Templates ran on the HTML files
+[4/2/2024 -- 18:8]  Scripts ran on main.js
+[4/2/2024 -- 18:8]  Info task started
+[4/2/2024 -- 18:8]  Mustache Templates ran on the HTML files
+[4/2/2024 -- 18:8]  Scripts ran on main.js
+[4/2/2024 -- 18:8]  Sass ran on files
+[4/2/2024 -- 18:9]  Scripts ran on main.js
+[4/2/2024 -- 18:12]  Info task started
+[4/2/2024 -- 18:12]  Mustache Templates ran on the HTML files
+[4/2/2024 -- 18:12]  Scripts ran on main.js
+[4/2/2024 -- 18:12]  Sass ran on files
+[4/2/2024 -- 18:21]  restarted!
+[4/2/2024 -- 18:22]  restarted!
+[4/2/2024 -- 18:22]  restarted!
+[4/2/2024 -- 18:24]  Scripts ran on main.js
+[4/2/2024 -- 18:29]  Info task started
+[4/2/2024 -- 18:29]  Mustache Templates ran on the HTML files
+[4/2/2024 -- 18:29]  Scripts ran on main.js
+[4/2/2024 -- 18:29]  Sass ran on files
+[4/2/2024 -- 18:29]  Scripts ran on main.js
+[4/2/2024 -- 18:30]  Scripts ran on main.js
+[4/2/2024 -- 18:30]  Scripts ran on main.js
+[4/2/2024 -- 18:31]  Scripts ran on main.js
+[4/2/2024 -- 18:31]  Scripts ran on main.js
+[4/2/2024 -- 18:31]  Scripts ran on main.js
+[4/2/2024 -- 18:31]  Scripts ran on main.js
+[4/2/2024 -- 18:31]  Scripts ran on main.js
+[4/2/2024 -- 18:32]  Scripts ran on main.js
+[4/2/2024 -- 18:34]  Scripts ran on main.js
+[4/2/2024 -- 18:34]  Scripts ran on main.js
+[4/2/2024 -- 18:35]  Scripts ran on main.js
+[4/2/2024 -- 18:35]  Scripts ran on main.js
+[4/2/2024 -- 18:36]  Info task started
+[4/2/2024 -- 18:36]  Mustache Templates ran on the HTML files
+[4/2/2024 -- 18:36]  Scripts ran on main.js
+[4/2/2024 -- 18:36]  Sass ran on files
+[4/2/2024 -- 18:37]  Scripts ran on main.js
+[4/2/2024 -- 18:37]  Scripts ran on main.js
+[4/2/2024 -- 18:38]  Scripts ran on main.js
+[4/2/2024 -- 18:39]  Sass ran on files
+[4/2/2024 -- 18:39]  Sass ran on files
+[4/2/2024 -- 18:40]  Scripts ran on main.js
+[4/2/2024 -- 18:40]  Scripts ran on main.js
+[4/2/2024 -- 18:41]  Scripts ran on main.js
+[4/2/2024 -- 18:42]  Scripts ran on main.js
+[4/2/2024 -- 18:42]  Scripts ran on main.js
+[4/2/2024 -- 18:42]  Sass ran on files
+[4/2/2024 -- 18:43]  Sass ran on files
+[4/2/2024 -- 18:43]  Sass ran on files
+[4/2/2024 -- 18:43]  Sass ran on files
+[4/2/2024 -- 18:44]  Sass ran on files
+[4/2/2024 -- 18:44]  Sass ran on files
+[4/2/2024 -- 18:44]  Sass ran on files
+[4/2/2024 -- 18:44]  Scripts ran on main.js
+[4/2/2024 -- 18:45]  restarted!
+[4/2/2024 -- 18:45]  Sass ran on files
+[4/2/2024 -- 18:46]  Sass ran on files
+[4/2/2024 -- 18:47]  Sass ran on files
+[4/2/2024 -- 18:47]  Sass ran on files
+[4/2/2024 -- 18:48]  Scripts ran on main.js
+[4/2/2024 -- 18:48]  Scripts ran on main.js
+[4/2/2024 -- 18:48]  Scripts ran on main.js
+[4/2/2024 -- 18:48]  Sass ran on files
+[4/2/2024 -- 18:49]  Sass ran on files
+[4/2/2024 -- 18:49]  Sass ran on files
+[4/2/2024 -- 18:56]  Scripts ran on main.js
+[4/2/2024 -- 18:57]  Info task started
+[4/2/2024 -- 18:57]  Mustache Templates ran on the HTML files
+[4/2/2024 -- 18:57]  Scripts ran on main.js
+[4/2/2024 -- 18:57]  Sass ran on files
+[4/2/2024 -- 18:58]  Scripts ran on main.js
+[4/2/2024 -- 18:58]  Sass ran on files
+[4/2/2024 -- 18:58]  Sass ran on files
+[4/2/2024 -- 18:58]  Sass ran on files
+[4/2/2024 -- 18:59]  Sass ran on files
+[4/2/2024 -- 19:1]  Sass ran on files
+[4/2/2024 -- 19:1]  Sass ran on files
+[4/2/2024 -- 19:1]  Sass ran on files
+[4/2/2024 -- 19:1]  Sass ran on files
+[4/2/2024 -- 19:1]  Sass ran on files
+[4/2/2024 -- 19:1]  Sass ran on files
+[4/2/2024 -- 19:1]  Sass ran on files
+[4/2/2024 -- 19:3]  Sass ran on files
+[4/2/2024 -- 19:4]  Sass ran on files
+[4/2/2024 -- 19:4]  Sass ran on files
+[4/2/2024 -- 19:5]  Sass ran on files
+[4/2/2024 -- 19:5]  Sass ran on files
+[4/2/2024 -- 19:5]  Sass ran on files
+[4/2/2024 -- 19:5]  Sass ran on files
+[4/2/2024 -- 19:5]  Sass ran on files
+[4/2/2024 -- 19:8]  Sass ran on files
+[4/2/2024 -- 19:8]  Sass ran on files
+[4/2/2024 -- 19:9]  Sass ran on files
+[4/2/2024 -- 19:9]  Sass ran on files
+[4/2/2024 -- 19:9]  Scripts ran on main.js
+[4/2/2024 -- 19:10]  Sass ran on files
+[4/2/2024 -- 19:10]  Scripts ran on main.js
+[4/2/2024 -- 19:10]  Scripts ran on main.js
+[4/2/2024 -- 19:10]  Scripts ran on main.js
+[4/2/2024 -- 19:13]  Sass ran on files
+[4/2/2024 -- 19:14]  Sass ran on files
+[4/2/2024 -- 19:16]  Sass ran on files
+[4/2/2024 -- 19:18]  Scripts ran on main.js
+[4/2/2024 -- 19:19]  Scripts ran on main.js
+[4/2/2024 -- 19:19]  Info task started
+[4/2/2024 -- 19:19]  Mustache Templates ran on the HTML files
+[4/2/2024 -- 19:19]  Scripts ran on main.js
+[4/2/2024 -- 19:19]  Sass ran on files
+[4/2/2024 -- 19:19]  Scripts ran on main.js
+[4/2/2024 -- 19:20]  Sass ran on files
+[4/2/2024 -- 19:21]  Sass ran on files
+[4/2/2024 -- 19:21]  Sass ran on files
+[4/2/2024 -- 19:25]  Sass ran on files
+[4/2/2024 -- 19:26]  Sass ran on files
+[4/2/2024 -- 19:27]  Sass ran on files
+[4/2/2024 -- 19:27]  Sass ran on files
+[4/2/2024 -- 19:28]  Sass ran on files
+[4/2/2024 -- 19:28]  Sass ran on files
+[4/2/2024 -- 19:28]  Sass ran on files
+[4/2/2024 -- 19:28]  Sass ran on files
+[4/2/2024 -- 19:28]  Sass ran on files
+[4/2/2024 -- 19:29]  Sass ran on files
+[4/2/2024 -- 19:30]  Sass ran on files
+[4/2/2024 -- 19:30]  Sass ran on files
+[4/2/2024 -- 19:30]  Sass ran on files
+[4/2/2024 -- 19:30]  Sass ran on files
+[4/2/2024 -- 19:31]  Sass ran on files
+[4/2/2024 -- 19:31]  Sass ran on files
+[4/2/2024 -- 19:31]  Sass ran on files
+[4/2/2024 -- 19:31]  Sass ran on files
+[4/2/2024 -- 19:32]  Scripts ran on main.js
+[4/2/2024 -- 19:33]  Sass ran on files
+[4/2/2024 -- 19:34]  Sass ran on files
+[4/2/2024 -- 19:34]  Sass ran on files
+[4/2/2024 -- 19:34]  Sass ran on files
+[4/2/2024 -- 19:35]  Sass ran on files
+[4/2/2024 -- 19:35]  Scripts ran on main.js
+[4/2/2024 -- 19:35]  Sass ran on files
+[4/2/2024 -- 19:36]  Sass ran on files
+[4/2/2024 -- 19:36]  Sass ran on files
+[4/2/2024 -- 19:36]  Sass ran on files
+[4/2/2024 -- 19:36]  Sass ran on files
+[4/2/2024 -- 19:36]  Sass ran on files
+[4/2/2024 -- 19:36]  Sass ran on files
+[4/2/2024 -- 19:37]  Sass ran on files
+[4/2/2024 -- 19:37]  Sass ran on files
+[4/2/2024 -- 19:38]  Sass ran on files
+[4/2/2024 -- 19:38]  Sass ran on files
+[4/2/2024 -- 19:39]  Sass ran on files
+[4/2/2024 -- 19:39]  Sass ran on files
+[4/2/2024 -- 19:39]  Sass ran on files
+[4/2/2024 -- 19:40]  Sass ran on files
+[4/2/2024 -- 19:41]  Scripts ran on main.js
+[4/2/2024 -- 19:41]  Sass ran on files
+[4/2/2024 -- 19:42]  Sass ran on files
+[4/2/2024 -- 19:42]  Sass ran on files
+[4/2/2024 -- 19:44]  Sass ran on files
+[4/2/2024 -- 19:44]  Sass ran on files
+[4/2/2024 -- 19:48]  Sass ran on files
+[4/2/2024 -- 19:48]  Sass ran on files
+[4/2/2024 -- 19:50]  Sass ran on files
+[4/2/2024 -- 19:50]  Sass ran on files
+[4/2/2024 -- 19:54]  Scripts ran on main.js
+[4/2/2024 -- 19:54]  Scripts ran on main.js
+[4/2/2024 -- 19:55]  Scripts ran on main.js
+[4/2/2024 -- 19:55]  Scripts ran on main.js
+[4/2/2024 -- 19:56]  Sass ran on files
+[4/2/2024 -- 19:57]  Scripts ran on main.js
+[4/2/2024 -- 19:57]  Scripts ran on main.js
+[4/2/2024 -- 19:59]  Sass ran on files
+[4/2/2024 -- 20:0]  Scripts ran on main.js
+[4/2/2024 -- 20:2]  Sass ran on files
+[4/2/2024 -- 20:4]  Scripts ran on main.js
+[4/2/2024 -- 20:4]  Scripts ran on main.js
+[4/2/2024 -- 20:4]  Sass ran on files
+[4/2/2024 -- 20:5]  Sass ran on files
+[4/2/2024 -- 20:5]  Scripts ran on main.js
+[4/2/2024 -- 20:6]  Scripts ran on main.js
+[4/2/2024 -- 20:6]  Scripts ran on main.js
+[4/2/2024 -- 20:6]  Sass ran on files
+[4/2/2024 -- 20:6]  Sass ran on files
+[4/2/2024 -- 20:6]  Sass ran on files
+[4/2/2024 -- 20:7]  Scripts ran on main.js
+[4/2/2024 -- 20:7]  Scripts ran on main.js
+[4/2/2024 -- 20:7]  Sass ran on files
+[4/2/2024 -- 20:7]  Scripts ran on main.js
+[4/2/2024 -- 20:7]  Scripts ran on main.js
+[4/2/2024 -- 20:8]  Scripts ran on main.js
+[4/2/2024 -- 20:8]  Scripts ran on main.js
+[4/2/2024 -- 20:9]  Scripts ran on main.js
+[4/2/2024 -- 20:9]  Scripts ran on main.js
+[4/2/2024 -- 20:10]  restarted!
+[4/2/2024 -- 20:15]  Scripts ran on main.js
+[4/2/2024 -- 20:15]  Info task started
+[4/2/2024 -- 20:15]  Mustache Templates ran on the HTML files
+[4/2/2024 -- 20:15]  Scripts ran on main.js
+[4/2/2024 -- 20:15]  Sass ran on files
+[4/2/2024 -- 20:16]  Scripts ran on main.js
+[4/2/2024 -- 20:16]  Sass ran on files
+[4/2/2024 -- 20:20]  Sass ran on files
+[4/2/2024 -- 20:21]  Sass ran on files
+[4/2/2024 -- 20:22]  Sass ran on files
+[4/2/2024 -- 20:22]  Sass ran on files
+[4/2/2024 -- 20:25]  Sass ran on files
+[4/2/2024 -- 20:26]  Sass ran on files
+[4/2/2024 -- 20:27]  Sass ran on files
+[4/2/2024 -- 20:28]  Sass ran on files
+[4/2/2024 -- 20:28]  Sass ran on files
+[4/2/2024 -- 20:28]  Sass ran on files
+[4/2/2024 -- 20:29]  Sass ran on files
+[4/2/2024 -- 20:33]  Sass ran on files
+[4/2/2024 -- 20:33]  Sass ran on files
+[4/2/2024 -- 20:33]  Sass ran on files
+[4/2/2024 -- 20:33]  Sass ran on files
+[4/2/2024 -- 20:35]  Sass ran on files
+[4/2/2024 -- 20:36]  Sass ran on files
+[4/2/2024 -- 20:41]  restarted!
+[4/2/2024 -- 20:41]  restarted!
+[4/2/2024 -- 20:43]  Sass ran on files
+[4/2/2024 -- 20:43]  Sass ran on files
+[4/2/2024 -- 20:43]  Sass ran on files
+[4/2/2024 -- 20:45]  Sass ran on files
+[4/2/2024 -- 20:47]  Sass ran on files
+[4/2/2024 -- 20:47]  Sass ran on files
+[4/2/2024 -- 20:47]  Sass ran on files
+[4/2/2024 -- 20:48]  Sass ran on files
+[4/2/2024 -- 20:50]  Sass ran on files
+[4/2/2024 -- 20:54]  Sass ran on files
+[4/2/2024 -- 20:54]  Sass ran on files
+[4/2/2024 -- 20:58]  Sass ran on files
+[4/2/2024 -- 21:0]  Sass ran on files
+[4/2/2024 -- 21:0]  Sass ran on files
+[4/2/2024 -- 21:1]  Sass ran on files
+[4/2/2024 -- 21:1]  Sass ran on files
+[4/2/2024 -- 21:3]  Sass ran on files
+[5/2/2024 -- 7:22]  Sass ran on files
+[5/2/2024 -- 7:26]  Sass ran on files
+[5/2/2024 -- 7:27]  Sass ran on files
+[5/2/2024 -- 7:32]  Sass ran on files
+[5/2/2024 -- 7:39]  Sass ran on files
+[5/2/2024 -- 7:39]  Sass ran on files
+[5/2/2024 -- 7:45]  Sass ran on files
+[5/2/2024 -- 7:45]  Sass ran on files
+[5/2/2024 -- 7:45]  Sass ran on files
+[5/2/2024 -- 9:55]  Sass ran on files
+[5/2/2024 -- 9:56]  Sass ran on files
+[5/2/2024 -- 9:56]  Sass ran on files
+[5/2/2024 -- 9:57]  restarted!
+[5/2/2024 -- 9:57]  restarted!
+[5/2/2024 -- 9:58]  restarted!
+[5/2/2024 -- 9:58]  Sass ran on files
+[5/2/2024 -- 9:59]  restarted!
+[5/2/2024 -- 9:59]  restarted!
+[5/2/2024 -- 9:59]  restarted!
+[5/2/2024 -- 10:2]  Sass ran on files
+[5/2/2024 -- 10:2]  Sass ran on files
+[5/2/2024 -- 10:3]  Sass ran on files
+[5/2/2024 -- 10:3]  Sass ran on files
+[5/2/2024 -- 10:3]  Sass ran on files
+[5/2/2024 -- 10:6]  Sass ran on files
+[5/2/2024 -- 10:8]  Sass ran on files
+[5/2/2024 -- 10:8]  Sass ran on files
+[5/2/2024 -- 10:8]  Sass ran on files
+[5/2/2024 -- 10:9]  Sass ran on files
+[5/2/2024 -- 10:9]  Sass ran on files
+[5/2/2024 -- 10:9]  Sass ran on files
+[5/2/2024 -- 10:12]  Sass ran on files
+[5/2/2024 -- 10:12]  Sass ran on files
+[5/2/2024 -- 10:16]  Sass ran on files
+[5/2/2024 -- 10:16]  Sass ran on files
+[5/2/2024 -- 10:16]  Sass ran on files
+[5/2/2024 -- 10:16]  Sass ran on files
+[5/2/2024 -- 10:16]  Sass ran on files
+[5/2/2024 -- 10:16]  Sass ran on files
+[5/2/2024 -- 10:17]  Sass ran on files
+[5/2/2024 -- 10:17]  Sass ran on files
+[5/2/2024 -- 10:18]  Sass ran on files
+[5/2/2024 -- 10:18]  Sass ran on files
+[5/2/2024 -- 10:18]  Sass ran on files
+[5/2/2024 -- 10:19]  Sass ran on files
+[5/2/2024 -- 10:21]  Sass ran on files
+[5/2/2024 -- 10:22]  Sass ran on files
+[5/2/2024 -- 10:24]  Sass ran on files
+[5/2/2024 -- 10:28]  Sass ran on files
+[5/2/2024 -- 10:28]  Sass ran on files
+[5/2/2024 -- 10:28]  Sass ran on files
+[5/2/2024 -- 10:28]  Sass ran on files
+[5/2/2024 -- 10:28]  Sass ran on files
+[5/2/2024 -- 10:33]  Sass ran on files
+[5/2/2024 -- 10:33]  Sass ran on files
+[5/2/2024 -- 10:36]  Sass ran on files
+[5/2/2024 -- 10:36]  Sass ran on files
+[5/2/2024 -- 10:38]  Sass ran on files
+[5/2/2024 -- 10:38]  Sass ran on files
+[5/2/2024 -- 10:38]  Sass ran on files
+[5/2/2024 -- 10:38]  Sass ran on files
+[5/2/2024 -- 10:39]  Sass ran on files
+[5/2/2024 -- 10:39]  Sass ran on files
+[5/2/2024 -- 10:39]  Sass ran on files
+[5/2/2024 -- 10:40]  Sass ran on files
+[5/2/2024 -- 10:40]  Sass ran on files
+[5/2/2024 -- 10:41]  Sass ran on files
+[5/2/2024 -- 10:50]  Sass ran on files
+[5/2/2024 -- 10:50]  Sass ran on files
+[5/2/2024 -- 10:51]  Sass ran on files
+[5/2/2024 -- 10:51]  Sass ran on files
+[5/2/2024 -- 10:52]  Sass ran on files
+[5/2/2024 -- 10:52]  Sass ran on files
+[5/2/2024 -- 10:52]  Sass ran on files
+[5/2/2024 -- 10:52]  Sass ran on files
+[5/2/2024 -- 10:53]  Sass ran on files
+[5/2/2024 -- 10:53]  Sass ran on files
+[5/2/2024 -- 10:53]  Sass ran on files
+[5/2/2024 -- 10:53]  Sass ran on files
+[5/2/2024 -- 10:53]  Sass ran on files
+[5/2/2024 -- 10:55]  Sass ran on files
+[5/2/2024 -- 10:59]  Sass ran on files
+[5/2/2024 -- 11:0]  Sass ran on files
+[5/2/2024 -- 11:1]  Sass ran on files
+[5/2/2024 -- 11:1]  Sass ran on files
+[5/2/2024 -- 11:7]  Sass ran on files
+[5/2/2024 -- 11:7]  Sass ran on files
+[5/2/2024 -- 11:8]  Sass ran on files
+[5/2/2024 -- 11:9]  Sass ran on files
+[5/2/2024 -- 11:10]  Sass ran on files
+[5/2/2024 -- 11:11]  Sass ran on files
+[5/2/2024 -- 11:11]  Sass ran on files
+[5/2/2024 -- 11:11]  Sass ran on files
+[5/2/2024 -- 11:12]  Sass ran on files
+[5/2/2024 -- 11:17]  Info task started
+[5/2/2024 -- 11:17]  Mustache Templates ran on the HTML files
+[5/2/2024 -- 11:17]  Scripts ran on main.js
+[5/2/2024 -- 11:17]  Sass ran on files
+[5/2/2024 -- 11:21]  Scripts ran on main.js
+[5/2/2024 -- 11:21]  Scripts ran on main.js
+[5/2/2024 -- 11:21]  Scripts ran on main.js
+[5/2/2024 -- 11:24]  Scripts ran on main.js
+[5/2/2024 -- 11:24]  Info task started
+[5/2/2024 -- 11:25]  Mustache Templates ran on the HTML files
+[5/2/2024 -- 11:25]  Scripts ran on main.js
+[5/2/2024 -- 11:25]  Sass ran on files
+[5/2/2024 -- 11:27]  Scripts ran on main.js
+[5/2/2024 -- 11:28]  Info task started
+[5/2/2024 -- 11:28]  Mustache Templates ran on the HTML files
+[5/2/2024 -- 11:28]  Scripts ran on main.js
+[5/2/2024 -- 11:28]  Sass ran on files
+[5/2/2024 -- 11:29]  Scripts ran on main.js
