@@ -1,6 +1,6 @@
-# ELC Javscript Coding Test
+# PAB Javscript Coding Test
 
-The ELC Javascript Coding Test is a way for you to showcase your own approach to coding. It allows you to create something with your own style and preferences. You can change the code to match your own preferences however you like. Feel free to change the setup, code or approach however you like. PLEASE READ ALL INSTRUCTIONS BELOW BEFORE STARTING.
+The PAB Javascript Coding Test is a way for you to showcase your own approach to coding. It allows you to create something with your own style and preferences. You can change the code to match your own preferences however you like. Feel free to change the setup, code or approach however you like. PLEASE READ ALL INSTRUCTIONS BELOW BEFORE STARTING.
 
 ### The Task
 
@@ -8,7 +8,7 @@ You are required to create a simple auto-search feature similar to [this one](ht
 
 * The point of entry for the app can be found in the 'app/scripts/main.js' file -- work from this file for your app code
 * The server with the response can be found in the 'server/app.js' file -- work from this file to complete the Node server setup
-* The data can be found in the 'server/data.js' file, which is then loaded into the Node 'server/app.js' file 
+* The data can be found in the 'server/data.js' file, which is then loaded into the Node 'server/app.js' file
 * The SCSS files, which contain the SASS styling, can be found in the 'app/sass' folder
 * You can alter the setup of the runtime by editing the 'gulpfile.js' file
 
@@ -34,17 +34,17 @@ After installing the Node modules, you must start two locally hosted servers. Th
 
     npm run servers
 
-This command will create a front end server at http://localhost:3030 (which should automatically open in your browser), and it will start the Node back end server at http://localhost:3035, with Nodemon, so that updates happen automatically on save. 
+This command will create a front end server at http://localhost:3030 (which should automatically open in your browser), and it will start the Node back end server at http://localhost:3035, with Nodemon, so that updates happen automatically on save.
 
 *Special Note for Windows Users*
 
 On Windows systems, you may get an error like the following:
 
   'NODE_ENV' is not recognized as an internal or external command, operable program or batch file.
-  
+
 If so, you will need to replace any occurrences of NODE_ENV with 'SET NODE_ENV' in the package.json, and separate this command from the one that follows it with a '&', like this:
   "node-server": "SET NODE_ENV=development & nodemon server/app.js"
-  
+
 ## Front End App Folder
 
 All of the front end source code can be found in the './app' folder. A description of each subfolder is as follows:

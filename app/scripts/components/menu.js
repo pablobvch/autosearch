@@ -2,36 +2,34 @@
  * This file will hold the Menu that lives at the top of the Page, this is all rendered using a React Component...
  *
  */
-import React, { useState } from 'react';
-import { ResultContainer } from './ResultContainer/ResultsContainer';
-import { getProductsByCriteria } from './utils/getProductsByCriteria';
+import React, { useState } from "react";
+import { ResultContainer } from "./ResultContainer/ResultsContainer";
+import { getProductsByCriteria } from "./utils/getProductsByCriteria";
 
 const Menu = () => {
   const [showingSearch, setShowingSearch] = useState(false);
-
-  const [productsToFind, setProductsToFind] = useState("")
-
   const [searchingResults, setSearchingResults] = useState(null);
+  const [inputValue, setInputValue] = useState("");
 
   const showSearchContainer = (e) => {
     e.preventDefault();
     setShowingSearch(!showingSearch);
   };
 
-  const onSearch = async (e) => {
-    const _productsToFind = e.target.value;
-    setProductsToFind(_productsToFind);
-    if (_productsToFind.length > 2) {
-      const { total, products } = await getProductsByCriteria(_productsToFind);
-      setSearchingResults({ total, products });
+  const onSearch = async (value) => {
+    if (value) {
+      const data = await getProductsByCriteria(value);
+      setSearchingResults(data);
     }
   };
+
+  console.log({inputValue})
 
   return (
     <header className="menu">
       <div className="menu-container">
         <div className="menu-holder">
-          <h1>ELC</h1>
+          <h1>PAB</h1>
           <nav>
             <a href="#" className="nav-item">
               HOLIDAY
@@ -65,8 +63,9 @@ const Menu = () => {
         onSearch={onSearch}
         showSearchContainer={showSearchContainer}
         showingSearch={showingSearch}
-        productsToFind={productsToFind}
         searchingResults={searchingResults}
+        inputValue={inputValue}
+        setInputValue={setInputValue}
       />
     </header>
   );

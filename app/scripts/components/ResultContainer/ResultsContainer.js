@@ -6,10 +6,12 @@ export const ResultContainer = ({
   onSearch,
   showSearchContainer,
   showingSearch,
-  productsToFind,
   searchingResults,
+  inputValue,
+  setInputValue
 }) => {
   const [trendingProducts, setTrendingProducts] = useState(null);
+  const [isTrendingProducts, setIsTrendingProducts] = useState(true);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -20,17 +22,33 @@ export const ResultContainer = ({
     fetchData();
   }, []);
 
+  useEffect(() => {
+    const getData = setTimeout(() => {
+      onSearch(inputValue);
+    }, 1000);
+
+    return () => clearTimeout(getData);
+  }, [inputValue]);
+
+  console.log({ inputValue, setInputValue });
+
   return (
     <div className={(showingSearch ? "showing " : "") + "search-container"}>
-      <input type="text" onChange={(e) => onSearch(e)} />
-      <a href="#" onClick={(e) => showSearchContainer(e)}>
+      <input type="text" value={inputValue} onChange={(e)=>{
+        setIsTrendingProducts(false)
+        setInputValue(e.target.value)
+      }}/>
+      <a href="#" onClick={(e) => {
+        setInputValue("")
+        showSearchContainer(e)
+        }}>
         <i className="material-icons close">close</i>
       </a>
       {
         <ProductList
-          isTrendingProducts={productsToFind.length === 0}
+          isTrendingProducts={isTrendingProducts}
           products={
-            productsToFind.length === 0 ? trendingProducts : searchingResults?.products
+            isTrendingProducts ? trendingProducts : searchingResults?.products
           }
           total={searchingResults?.total}
         />

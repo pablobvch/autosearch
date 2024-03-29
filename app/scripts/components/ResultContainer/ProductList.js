@@ -1,8 +1,6 @@
 import React from 'react'
 import { currencyFormater } from '../../../utils/currencyFormater';
 
-// const renderTitleIfNeeded = (products) =>
-
 export const ProductList = ({ isTrendingProducts, products, total }) => {
   return (
     <>

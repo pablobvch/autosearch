@@ -17,7 +17,7 @@
   "scripts": {
     "globals": "npm i -g cross-env",
     "servers": "set NODE_ENV=development&&gulp watch",
-    "dev-server": "cross-env set NODE_ENV=development&&gulp dev_server",
+    "dev-server": "cross-env NODE_ENV=development&&gulp dev_server",
     "node-server": "cross-env NODE_ENV=development&&nodemon server/app.js",
     "prod": "cross-env set NODE_ENV=production&&gulp prod",
     "image-min": "cross-env NODE_ENV=development&&gulp images",
@@ -27,8 +27,8 @@
   "keywords": [
     "Template"
   ],
-  "author": "ELC Online",
-  "license": "All rights reserved ELC Online",
+  "author": "PAB Online",
+  "license": "All rights reserved PAB Online",
   "devDependencies": {
     "@babel/core": "^7.20.12",
     "@babel/plugin-proposal-class-properties": "^7.13.0",
