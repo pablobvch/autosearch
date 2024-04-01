@@ -1,7 +1,15 @@
 import React from 'react'
 import { currencyFormater } from '../../../utils/currencyFormater';
 
-export const ProductList = ({ isTrendingProducts, products, total }) => {
+export const ProductList = ({ isTrendingProducts, products, total, loading }) => {
+
+if (loading) {
+    return (
+      <div className="loader-container">
+        <h1 className="loader">&nbsp;</h1>
+      </div>
+    );
+}
   return (
     <>
       {isTrendingProducts ? (
@@ -26,7 +34,7 @@ export const ProductList = ({ isTrendingProducts, products, total }) => {
           );
         })}
       </div>
-
+      {products?.length === 0 && <h4 className="no-data-found">NO DATA FOUND</h4>}
     </>
   );
 };

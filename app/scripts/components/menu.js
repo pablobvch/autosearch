@@ -10,6 +10,7 @@ const Menu = () => {
   const [showingSearch, setShowingSearch] = useState(false);
   const [searchingResults, setSearchingResults] = useState(null);
   const [inputValue, setInputValue] = useState("");
+  const [loading, setLoading] = useState(false)
 
   const showSearchContainer = (e) => {
     e.preventDefault();
@@ -18,12 +19,11 @@ const Menu = () => {
 
   const onSearch = async (value) => {
     if (value) {
+      await new Promise(resolve => setTimeout(resolve, 2000)); // As the query works extremly fast, I had to add the delay because I want to show the loader intentionally
       const data = await getProductsByCriteria(value);
       setSearchingResults(data);
     }
-  };
-
-  console.log({inputValue})
+ };
 
   return (
     <header className="menu">
@@ -66,6 +66,8 @@ const Menu = () => {
         searchingResults={searchingResults}
         inputValue={inputValue}
         setInputValue={setInputValue}
+        loading={loading}
+        setLoading={setLoading}
       />
     </header>
   );

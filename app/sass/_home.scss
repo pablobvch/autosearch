@@ -9,13 +9,14 @@ section#home {
     height: 100%;
     top: 0; left: 0;
     padding: 100px 20px 0;
-    background-image: url('/img/header.jpg');
+    background-color: #e5e7eb;
     background-size: cover;
     background-repeat: no-repeat;
 
     div.content {
         max-width: $siteWidth;
         margin: 0 auto;
-        color: #FFF;
+        color: #040a2b;
     }
+
 }

@@ -8,7 +8,9 @@ export const ResultContainer = ({
   showingSearch,
   searchingResults,
   inputValue,
-  setInputValue
+  setInputValue,
+  loading,
+  setLoading,
 }) => {
   const [trendingProducts, setTrendingProducts] = useState(null);
   const [isTrendingProducts, setIsTrendingProducts] = useState(true);
@@ -17,31 +19,37 @@ export const ResultContainer = ({
     const fetchData = async () => {
       const _trendingProducts = await getTrendingProducts();
       setTrendingProducts(_trendingProducts);
+
     };
 
     fetchData();
   }, []);
 
   useEffect(() => {
-    const getData = setTimeout(() => {
-      onSearch(inputValue);
+    const getData = setTimeout(async () => {
+      setLoading(true); // Iniciamos la carga
+      await onSearch(inputValue);
+      setLoading(false); // Finalizamos la carga
     }, 1000);
 
     return () => clearTimeout(getData);
   }, [inputValue]);
 
-  console.log({ inputValue, setInputValue });
+
+  const handleOnChange = (e) => {
+    setIsTrendingProducts(false);
+    setInputValue(e.target.value);
+  };
+
+  const handleClick = (e) => {
+    setInputValue("");
+    showSearchContainer(e);
+  };
 
   return (
     <div className={(showingSearch ? "showing " : "") + "search-container"}>
-      <input type="text" value={inputValue} onChange={(e)=>{
-        setIsTrendingProducts(false)
-        setInputValue(e.target.value)
-      }}/>
-      <a href="#" onClick={(e) => {
-        setInputValue("")
-        showSearchContainer(e)
-        }}>
+      <input type="text" value={inputValue} onChange={handleOnChange} />
+      <a href="#" onClick={handleClick}>
         <i className="material-icons close">close</i>
       </a>
       {
@@ -51,6 +59,7 @@ export const ResultContainer = ({
             isTrendingProducts ? trendingProducts : searchingResults?.products
           }
           total={searchingResults?.total}
+          loading={loading}
         />
       }
     </div>
