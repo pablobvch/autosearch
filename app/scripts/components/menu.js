@@ -2,15 +2,23 @@
  * This file will hold the Menu that lives at the top of the Page, this is all rendered using a React Component...
  *
  */
-import React, { useState } from "react";
-import { ResultContainer } from "./ResultContainer/ResultsContainer";
+import React, { useState, useRef, useEffect } from "react";
+import { ResultContainer } from "./ResultContainer/ResultContainer";
 import { getProductsByCriteria } from "./utils/getProductsByCriteria";
 
 const Menu = () => {
   const [showingSearch, setShowingSearch] = useState(false);
   const [searchingResults, setSearchingResults] = useState(null);
   const [inputValue, setInputValue] = useState("");
-  const [loading, setLoading] = useState(false)
+  const [loading, setLoading] = useState(false);
+
+  const inputRef = useRef(null);
+
+  useEffect(() => {
+    if (showingSearch && inputRef.current) {
+      inputRef.current.focus();
+    }
+ }, [showingSearch]);
 
   const showSearchContainer = (e) => {
     e.preventDefault();
@@ -68,6 +76,7 @@ const Menu = () => {
         setInputValue={setInputValue}
         loading={loading}
         setLoading={setLoading}
+        ref={inputRef}
       />
     </header>
   );
